@@ -1,0 +1,114 @@
+physics, topology, logic and computation: a rosetta stone
+purely functional data structures by Okasaki
+real world haskell by bryan o sollivan
+pearls of functional algorithm design
+infinite powers: steven strogatz
+journey through genius: the great theorems of mathematics: william dunham
+euler: the master of us all william dunham
+the calculus gallery: masterpieces from newton to lebesgue
+Introduction to Abstract Algebra by W. Keith Nicholson
+Mathematics: Form and Function: saunders maclane
+Love and Math from Edward Frenkel
+fermats last theorem: simon singh
+surely your joking Mr.Feynman
+things to make and do in the fourth dimension
+Elements (euclid)
+Godel's proof - nagel/newman
+proofs of 'the book'
+the man who loved only numbers (hoffman)
+set theory, topology, and other maths/physics: https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic
+a mathematicians apology: gd hardy
+a friendly introduction to number theory by silverman
+How Mathematicians Think, by William Byers
+To Infinity and Beyond, by Eli Maor
+An Introduction to Mathematics, by Alfred North Whitehead
+The Power of Mindful Learning, by Ellen J. Langer
+thermodynamics - enrico fermi
+physical chemistry - a molecular approach
+process heat transfer
+Optimal Control Theory: An Introduction
+Fundamentals of Electric Circuits
+mathematics its content methods and meaning
+fourier series and boundary value problems churchill 1941
+Algebra: An Elementary Text-Book
+Ordinary Differential Equations - Dover
+Probability Theory: The Logic of Science
+Course of Modern Analysis whittaker and wastom
+Theory of Functions of a Complex Variable
+discrete mathematics with applications - susanna S. Epp
+mathematics: a discrete introduction - edward R. Scheinerman
+Analysis I terence Tao
+Analysis 2 tarence tao
+from calculus to analysis - steen pedersen
+writing proofs in analysis - jonathan M. Kane
+topology - james munkres
+topology without tears - sidney A. morris
+numerical analysis - timothy sauer
+an introduction to numerical methods and analysis - james F. epperson
+combinatorial reasoning: an introduction to the art of counting - duana detemple
+introductory combinatorics - richard A. brualdi
+elements of set theory - berbert enderton
+princeton lectures in analysis I
+princeton lectures in analysis 2
+princeton lectures in analysis 3
+princeton lectures in analysis 4
+introduction to lattices and order - ba davey
+lattices and ordered sets - steven roman
+post-modern algebra - jonathan D.H smith
+universal algebra - P.M. Cohn
+propositional and predicate calculus - derek godrei
+mathematical logic - ian chiswell
+computability theory - herbert enderton
+introduction to the theory of computation - michael spiser
+numerical methods that usually work - forman S. acton
+elementary number theory - kenneth H. Rosen
+Algebra abstract and concrete - frederick goodman
+Linear algebra done wrong - sergei treil
+algebra: chapiter 0 - paolo aluffi
+algebra: a graduate course: I martin isaacs
+number fields - daniel a marcus
+sets for mathematics - f.w. lawvere
+arrows structures and functors: the categorical imperitive: micheal a. arbib
+category theory: a gentle introduction
+basic category theory - tom leinster
+visual complex analysis - tristan needham
+complex analysis with applications - dennis g. zill
+the elements of real analysis - robert g. bartle
+advanced calculus of several variables - c.h. edwards jr.
+principles of mathematical analysis - walter rudin
+applied optimization - ross baldick
+an introduction to optimization - edwin k.p. chong
+convex optimization theory - dimitri p. bertsekas
+foundations of optimization - osman guler
+a differential approach to geometry - francis borceux
+elementary differenctial geometry - andrew pressley
+manifolds, tensors and forms - paul renteln
+a comprehensive introduction to differential geometry - michal spivak
+introdutory functional analysis with applications - erwin kreyszig
+principles of functional analysis - martin scheter
+real and complex analysis - walter rudin
+real analysis - gerald b. folland
+glassical geometry - I. E. L., J.E.L, A.C.F.L, G.W.T
+modern geometry with applications - george a. gennings
+invitation to combinatorical topology - maurice frechet and ky fan
+basic concepts of algebraic topology - fred h. croom
+elements of algebraic topology - james munkres
+a first course in algebraic topology - c. kosniowski
+elementary algebraic geometry - keith kendig
+ideals varieties and algorithms - david a. cox
+a royal road to algebraic geometry - audune holme
+Foundations of Physically Based Modeling and Animation
+more than 100 years of writing by the numbers: book of mathematics
+elements de mathematiques (fr) - nicholas bourbaki
+Computer Graphics: Principles and Practice james folley
+linear algebra and its applications - gilbert strang
+elementary differential geometry - barrett o neil
+Numerical Recipes in C: The Art of Scientific Computing
+The Fourier Transform and Its Applications - ronald n bracewell
+matrix computations - gene golub
+computational geometry in c - joseph orourke
+computational geometry: an introduction - franco preparata
+Proof, Logic, and Conjecture: The Mathematician's Toolbox
+How to Read and Do Proofs: An Introduction to Mathematical Thought Processes
+How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)
+Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics
