@@ -1,3 +1,5 @@
+bootcamp on control theory youtube
+explained.ai/matrix-calculus
 geometric folding algorithms: MIT course
 physics, topology, logic and computation: a rosetta stone
 purely functional data structures by Okasaki
